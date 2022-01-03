@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Threat Sight",
+    "short_description": "Threat Intelligence for Zendesk Tickets.",
+    "long_description": "The Threat Sight application integrates open source threat intelligence into your Zendesk tickets view.\n\n It pulls down threat indicators from a number of open source threat intelligence sources, and matches based on email address and IP address. \n\n If a threat is found, it tells you which threat list is triggered, and why the threat was detected.",
+    "installation_instructions": "Install the app from the app marketplace.  No settings required. When you views a ticket the threat score will appear in your tickets view indicating if there was a match to a threat intelligince feed."
+  }
+}

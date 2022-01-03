@@ -1,2 +1,2 @@
-# threatsight
-Threat Intelligence for Zendesk 
+# threat sight
+Threat Sight app for Zendesk
